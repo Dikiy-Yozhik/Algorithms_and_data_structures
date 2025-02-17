@@ -1,2 +1,5 @@
 Just get started
 Build a connection
+
+Гитхаб Бычкова:
+https://github.com/il-bychkov/algorithms_course
